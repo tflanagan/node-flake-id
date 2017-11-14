@@ -3,7 +3,7 @@
 /* Versioning */
 const VERSION_MAJOR = 0;
 const VERSION_MINOR = 1;
-const VERSION_PATCH = 0;
+const VERSION_PATCH = 1;
 
 const VERSION = [ VERSION_MAJOR, VERSION_MINOR, VERSION_PATCH ].join('.');
 
