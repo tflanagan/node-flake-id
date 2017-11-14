@@ -1,12 +1,12 @@
 {
   "name": "flake-id",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "description": "Generate 64-Bit (with 63 signigicant bits) k-ordered, conflict-free ids in a distributed environment.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@gitlab.tristianflanagan.com:node-portal/flake-id.git"
+    "url": "git@github.com:tflanagan/node-flake-id.git"
   },
   "author": {
     "name": "Tristian Flanagan",
